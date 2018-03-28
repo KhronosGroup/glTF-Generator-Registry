@@ -1,0 +1,27 @@
+{
+  "name": "gltf-generator-registry",
+  "version": "0.0.1",
+  "description": "An open registry of tools that create glTF assets.",
+  "main": "registry.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donmccurdy/glTF-Generator-Registry.git"
+  },
+  "keywords": [
+    "gltf",
+    "3d",
+    "models",
+    "modeling",
+    "formats",
+    "registry"
+  ],
+  "author": "Don McCurdy <dm@donmccurdy.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/donmccurdy/glTF-Generator-Registry/issues"
+  },
+  "homepage": "https://github.com/donmccurdy/glTF-Generator-Registry#readme"
+}
