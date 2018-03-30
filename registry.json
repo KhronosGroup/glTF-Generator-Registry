@@ -2,22 +2,44 @@
     "version": "0.0.1",
     "generators": [
         {
-            "name": "Blender Exporter (Khronos Group)",
-            "id": "Khronos Blender glTF 2.0 exporter",
-            "homepage": "https://github.com/KhronosGroup/glTF-Blender-Exporter",
-            "bugs": "https://github.com/KhronosGroup/glTF-Blender-Exporter/issues"
+            "generator": "Khronos Blender glTF 2.0 exporter",
+            "name": "Blender Exporter",
+            "author": "Khronos Group",
+            "homepageURL": "https://github.com/KhronosGroup/glTF-Blender-Exporter",
+            "bugsURL": "https://github.com/KhronosGroup/glTF-Blender-Exporter/issues"
         },
         {
-            "name": "Blender Exporter (Kupoman)",
-            "id": "blendergltf v*",
-            "homepage": "https://github.com/Kupoman/blendergltf",
-            "bugs": "https://github.com/Kupoman/blendergltf/issues"
+            "generator": "blendergltf v*",
+            "name": "Blender Exporter",
+            "author": "Kupoman",
+            "homepageURL": "https://github.com/Kupoman/blendergltf",
+            "bugsURL": "https://github.com/Kupoman/blendergltf/issues"
         },
         {
+            "generator": "COLLADA2GLTF",
             "name": "COLLADA2GLTF",
-            "id": "COLLADA2GLTF",
-            "homepage": "https://github.com/KhronosGroup/COLLADA2GLTF",
-            "bugs": "https://github.com/KhronosGroup/COLLADA2GLTF/issues"
+            "author": "Khronos Group",
+            "homepageURL": "https://github.com/KhronosGroup/COLLADA2GLTF",
+            "bugsURL": "https://github.com/KhronosGroup/COLLADA2GLTF/issues"
+        },
+        {
+            "generator": "Microsoft GLTF Exporter *",
+            "name": "Microsoft glTF Exporter",
+            "author": "Microsoft",
+            "bugsText": "From the Feedback Hub on Windows, use the *Apps > Paint 3D* categorise."
+        },
+        {
+            "generator": "Sketchup glTF Exporter by Centaur",
+            "name": "Sketchup glTF Exporter",
+            "author": "Centaur",
+            "homepageURL": "https://extensions.sketchup.com/content/gltf-exporter"
+        },
+        {
+            "generator": "THREE.GLTFExporter",
+            "name": "THREE.GLTFExporter",
+            "author": "The three.js authors",
+            "homepageURL": "https://threejs.org/docs/#examples/exporters/GLTFExporter",
+            "bugsURL": "https://github.com/mrdoob/three.js/issues"
         }
     ]
 }
