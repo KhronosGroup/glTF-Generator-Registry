@@ -4,7 +4,9 @@
   "description": "An open registry of tools that create glTF assets.",
   "main": "registry.json",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dist": "npm run dist:md && npm run dist:js",
+    "dist:md": "handlebars registry.json < tpl/REGISTRY.hbs.md > dist/REGISTRY.md",
+    "dist:js": "echo \"module.exports = \" > dist/registry.js && cat registry.json >> dist/registry.js"
   },
   "repository": {
     "type": "git",
@@ -23,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/donmccurdy/glTF-Generator-Registry/issues"
   },
-  "homepage": "https://github.com/donmccurdy/glTF-Generator-Registry#readme"
+  "homepage": "https://github.com/donmccurdy/glTF-Generator-Registry#readme",
+  "devDependencies": {
+    "handlebars-cmd": "^0.1.4"
+  }
 }
