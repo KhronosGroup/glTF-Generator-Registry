@@ -9,7 +9,7 @@
             "bugsURL": "https://github.com/KhronosGroup/glTF-Blender-Exporter/issues"
         },
         {
-            "generator": "blendergltf v*",
+            "generator": "blendergltf *",
             "name": "Blender exporter",
             "author": "Kupoman",
             "docsURL": "https://github.com/Kupoman/blendergltf",
