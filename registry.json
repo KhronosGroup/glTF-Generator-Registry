@@ -17,7 +17,7 @@
         },
         {
             "generator": "COLLADA2GLTF",
-            "name": "COLLADA2GLTF",
+            "name": "COLLADA converter",
             "author": "Khronos Group",
             "docsURL": "https://github.com/KhronosGroup/COLLADA2GLTF",
             "bugsURL": "https://github.com/KhronosGroup/COLLADA2GLTF/issues"
@@ -40,6 +40,48 @@
             "author": "The three.js authors",
             "docsURL": "https://threejs.org/docs/#examples/exporters/GLTFExporter",
             "bugsURL": "https://github.com/mrdoob/three.js/issues"
+        },
+        {
+            "generator": "glTF Tools for Unity",
+            "name": "Unity exporter",
+            "author": "Khronos Group",
+            "docsURL": "https://github.com/KhronosGroup/UnityGLTF",
+            "bugsURL": "https://github.com/KhronosGroup/UnityGLTF/issues"
+        },
+        {
+            "generator": "Maya2glTF *",
+            "name": "Maya exporter",
+            "author": "Wonder Media Group",
+            "docsURL": "https://github.com/WonderMediaProductions/Maya2glTF",
+            "bugsURL": "https://github.com/WonderMediaProductions/Maya2glTF/issues"
+        },
+        {
+            "generator": "FBX2glTF *",
+            "name": "FBX converter",
+            "author": "Facebook",
+            "docsURL": "https://github.com/facebookincubator/FBX2glTF",
+            "bugsURL": "https://github.com/facebookincubator/FBX2glTF/issues"
+        },
+        {
+            "generator": "obj2gltf",
+            "name": "OBJ converter",
+            "author": "Analytical Graphics",
+            "docsURL": "https://github.com/AnalyticalGraphicsInc/OBJ2GLTF",
+            "bugsURL": "https://github.com/AnalyticalGraphicsInc/OBJ2GLTF/issues"
+        },
+        {
+            "generator": "babylon.js glTF exporter for maya 2018 *",
+            "name": "Maya exporter",
+            "author": "The BabylonJS authors",
+            "docsURL": "https://github.com/BabylonJS/Exporters",
+            "bugsURL": "https://github.com/BabylonJS/Exporters/issues"
+        },
+        {
+            "generator": "babylon.js glTF exporter for 3ds max 2017 *",
+            "name": "3DS Max exporter",
+            "author": "The BabylonJS authors",
+            "docsURL": "https://github.com/BabylonJS/Exporters",
+            "bugsURL": "https://github.com/BabylonJS/Exporters/issues"
         }
     ]
 }
