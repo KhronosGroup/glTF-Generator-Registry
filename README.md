@@ -11,4 +11,4 @@ An open registry of tools that create glTF assets.
 | docsURL | ✅ | URL for homepage or documentation. |
 | bugsURL | | URL for reporting issues. |
 | bugsText | | If no URL is available, instructions for reporting issues may be given here. |
-| type | ✅ | `EXPORTER` or `CONVERTER` |
+| type | ✅ | `EXPORTER`, `CONVERTER`, or `OTHER` |

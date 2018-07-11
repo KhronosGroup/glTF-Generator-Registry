@@ -94,6 +94,14 @@
             "type": "EXPORTER",
             "docsURL": "https://github.com/BabylonJS/Exporters",
             "bugsURL": "https://github.com/BabylonJS/Exporters/issues"
+        },
+        {
+            "generator": "Sketchfab (OSG glTF plugin)",
+            "name": "Sketchfab",
+            "author": "Sketchfab",
+            "type": "OTHER",
+            "docsURL": "https://sketchfab.com",
+            "bugsURL": "https://help.sketchfab.com/hc/en-us/articles/360000048623-Reporting-a-bug"
         }
     ]
 }
