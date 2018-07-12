@@ -1,4 +1,4 @@
-# glTF-Generator-Registry v0.0.1
+# glTF-Generator-Registry v0.0.2
 
 <!--
 
