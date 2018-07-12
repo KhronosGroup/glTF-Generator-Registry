@@ -1,5 +1,12 @@
 # glTF-Generator-Registry
+
 An open registry of tools that create glTF assets.
+
+## Generators
+
+See [REGISTRY.md](dist/REGISTRY.md) for a readonly human-friendly list of tools.
+For a machine-readable version, or to contribute, see
+[registry.json](registry.json).
 
 ## Fields
 
