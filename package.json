@@ -1,6 +1,6 @@
 {
   "name": "gltf-generator-registry",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An open registry of tools that create glTF assets.",
   "main": "registry.json",
   "scripts": {
@@ -20,8 +20,8 @@
     "formats",
     "registry"
   ],
-  "author": "Don McCurdy <dm@donmccurdy.com>",
-  "license": "MIT",
+  "author": "Khronos Group",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/donmccurdy/glTF-Generator-Registry/issues"
   },
