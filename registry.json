@@ -65,6 +65,14 @@
             "bugsText": "From the Feedback Hub on Windows, use the *Apps > Paint 3D* categorise."
         },
         {
+            "generator": "Mozilla Spoke *",
+            "name": "Mozilla Spoke",
+            "author": "Mozilla",
+            "type": "EXPORTER",
+            "docsURL": "https://github.com/mozilla/Spoke",
+            "bugsURL": "https://github.com/mozilla/Spoke/issues",
+        },
+        {
             "generator": "obj2gltf",
             "name": "OBJ converter",
             "author": "Analytical Graphics",
