@@ -23,3 +23,8 @@ For a machine-readable version, or to contribute, see
 | bugsURL | | URL for reporting issues. |
 | bugsText | | If no URL is available, instructions for reporting issues may be given here. |
 | type | ✅ | `EXPORTER`, `CONVERTER`, or `OTHER` |
+
+## Default Branch Renaming
+
+**NOTE**: as of 2021-08-09, the default branch of this repository has
+been renamed from 'master' to 'main'.
