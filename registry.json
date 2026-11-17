@@ -110,6 +110,13 @@
             "type": "EXPORTER",
             "docsURL": "",
             "bugsURL": "https://feedback.adobedimension.com/forums/552760-adobe-dimension-bugs"
-        }
+        },{
+  "generator": "3D Vision Art GLB Viewer | https://3dvisionart.net",
+  "name": "GLB Viewer - GLB Studio Pro",
+  "author": "3D Vision Art",
+  "type": "EXPORTER",
+  "docsURL": "https://3dvisionart.net/glb-viewer/"
+}
+
     ]
 }
